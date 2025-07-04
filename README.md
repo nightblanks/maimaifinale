@@ -5,7 +5,7 @@
 
 
 <p align="center">
-    hi im milk!!! i like touhou, rhythm games (maimai, chunithm, wacca, taiko) and pokemon. you can usually find me at docks sitting with my <a href="https://github.com/megatensei">girlfriend.</a>
+    hi im milk!!! i like touhou, rhythm games (maimai, chunithm, wacca, taiko) and pokemon. you can usually find me at docks sitting with my <a href="https://github.com/maimaiprism">girlfriend.</a>
     
 </p>    
 <p align="center">
